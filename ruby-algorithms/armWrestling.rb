@@ -56,3 +56,4 @@ def armWrestling(playerOne, playerTwo)
     puts "left arm game result is: #{left_winner}"
     puts "left arm game result is: #{right_winner}"
 end
+
