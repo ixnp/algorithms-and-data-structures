@@ -23,6 +23,16 @@ Example file structure
     └── ...
     ``` 
 
+### Technical Assessments
+Many companies in the greater Seattle area have the expectation that an interviewer can effectively communicate their ideas and solve a technical challenge. These challenges can come in the form of a take-home problem, pair-programming and often on-site whiteboard interview. The content in this repository will prepare students for these technical challenges.  
+## Preparation for these interviews are split into 3 categories:
+ * TIPS lectures: How to approach algorithms and the whiteboard interviews process.
+
+ * DSA lectures: A dive into data structures commonly used for interview questions. Stacks, Queues, LinkedLists, Graphs, Trees and Hashes are covered here
+
+ * Daily Algorithm challenges: Daily practice problems that increase with difficulty as the students progress through the mods.
+
+
 ### TODOs
 
 
