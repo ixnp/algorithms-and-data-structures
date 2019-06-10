@@ -10,16 +10,18 @@ Contributors are free to upload content. For the sake of organization keep a few
  * Cite outside sources! 
  * Keep content organized, well labeled and easy to find.
 Example file structure 
-    .
+
+    ```
     ├── ...
     ├── javascript-algorithms                   
     │   ├── arrays
-              ├── quick-sort
-                ├── quick-sort.js
-                ├── quick-sort-solution.js
+    │           ├── quick-sort
+    │            ├── quick-sort.js
+    │            ├── quick-sort-solution.js
     │   ├── strings        
     │   └── linked-list               
     └── ...
+    ``` 
 
 ### TODOs
 
