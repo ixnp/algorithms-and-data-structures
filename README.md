@@ -1,24 +1,48 @@
-# algorithms-and-data-structures
-WIP
-6/6
+# Algorithms and Data Structures 
 
-adding initial problems 
+The purpose of this repository is to build and collect content focused on technical interviews. 
 
-TODO: 
+## Contributing Content 
 
-Add problems 
+Contributors are free to upload content. For the sake of organization keep a few best practices in mind.
+ * Avoid duplicate content. (the same problems in different languages do not count however if you create a solution create a comment that references your solution in the original problem file.)
+ * Before deleting content reach out to the contributor who wrote it or the owner of this repository.
+ * Cite outside sources! 
+ * Keep content organized, well labeled and easy to find.
+Example file structure 
+    .
+    ├── ...
+    ├── javascript-algorithms                   
+    │   ├── arrays
+              ├── quick-sort
+                ├── quick-sort.js
+                ├── quick-sort-solution.js
+    │   ├── strings        
+    │   └── linked-list               
+    └── ...
 
-Make problems language agnostic
+### TODOs
 
-Add difficulty level
 
-Add multiple solutions in ruby and JavaScript
+ * Add problems 
 
-Add bigO to solutions 
+ * Make problems language agnostic
 
-Add timeline with release date suggestions 
+ * Add difficulty level to problems
 
-Write README 
+ * Add multiple solutions in ruby, python and JavaScript
 
-Add Data Science content 
+ * Add bigO to solutions 
+
+ * Add timeline with release date suggestions 
+
+ * improve README 
+
+ * Add Data Science content 
+ 
+ * Add TODOs as issues 
+
+ * write tests 
+
+ * add lecture slides 
 
